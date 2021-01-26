@@ -1,5 +1,5 @@
 # Python Samples from Murach Textbook
-# Used for ISQA 3900 class
+# Used for ISQA 3900 and ISQA 4900 class
 
 ## Chapters
 
